@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color:red
+}
+
+.box{
+    background-color: azure;
+    text-align:center;
+    font-size:1.5em
+}
+
+.insta{
+    background-color: aquamarine;
+    text-align: cover;
+    img{
+        position:relative;
+        top:35px;
+        left:250px;
+    }
+    a{
+        position:relative;
+        top:70px;
+        left:120px;
+        font-size: 2em;
+    }
+}
+
+.youtb{
+    background-color: rgb(127,255,212);
+    text-align: cover;
+    img{
+        position:relative;
+        top:-115px;
+        left:850px;
+    }
+    a{
+        position:relative;
+        left:750px;
+        top:-75px;
+        font-size: 2em;
+    }
+}
